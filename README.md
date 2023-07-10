@@ -12,8 +12,8 @@ Linux kernel.
 ## Assignment
 
 - Slide: [here](https://docs.google.com/presentation/d/1YEJgkzwKNu5vHz0LIqiJs69VDud-6LV8RCfet4apkOE/edit?usp=sharing) (ECCS email required) 
-- Date assigned: ***2023/07/03***
-- Date due: ***2023/07/24 23:59*** (tentative)
+- Date assigned: ***2023/07/10***
+- Date due: ***2023/07/31 23:59*** (tentative)
 
 ## Notes
 
